@@ -30,7 +30,7 @@ jobs:
       env:
         LOWSUGARCOKE_TOKEN: ${{ secrets.LOWSUGARCOKE_TOKEN }}
       run: |-
-        python build_readme.py
+        python build-profile.py
         cat README.md
     - name: Commit and push if changed
       run: |-
