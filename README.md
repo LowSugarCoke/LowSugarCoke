@@ -1,5 +1,7 @@
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/LowSugarCoke?theme=dark&font=Bitter" />
+</div>
 
-<table><tr><td valign="top" width="33%">
 
 ### Recent releases
 <!-- recent_releases starts -->
@@ -10,6 +12,6 @@
 [SNReminder SN Reminder v1.0.0](https://github.com/LowSugarCoke/SNReminder/releases/tag/v1.0.0) - 2022-04-27
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/LowSugarCoke/build-profile/blob/main/releases.md)
-</td><td valign="top" width="34%">
+
 
 
