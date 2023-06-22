@@ -5,6 +5,8 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+[Pokemon pokemon v1.0.1.0](https://github.com/LowSugarCoke/Pokemon/releases/tag/v1.0.1.0) - 2023-06-22
+
 [pic-crawler Release  v1.0.0.0](https://github.com/LowSugarCoke/pic-crawler/releases/tag/v1.0.0.0) - 2023-06-21
 
 [RPGGame v1.0.0.0](https://github.com/LowSugarCoke/RPGGame/releases/tag/v1.0.0.0) - 2022-11-17
