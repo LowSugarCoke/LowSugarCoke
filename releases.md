@@ -1,9 +1,9 @@
 # Released projects
 
-Listing <!-- releases_count starts -->5<!-- releases_count ends --> releases across <!-- project_count starts -->5<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->6<!-- releases_count ends --> releases across <!-- project_count starts -->5<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[dungeon-game](https://github.com/LowSugarCoke/dungeon-game)**: [dungeon v1.0.0.0](https://github.com/LowSugarCoke/dungeon-game/releases/tag/v1.0.0.0) - 2023-06-22
+* **[dungeon-game](https://github.com/LowSugarCoke/dungeon-game)**: [dungeon v1.0.1.0](https://github.com/LowSugarCoke/dungeon-game/releases/tag/v1.0.1.0) - ([2 releases total](https://github.com/LowSugarCoke/dungeon-game/releases)) - 2023-06-22
 <br />Similar games to Pac-Man - Dungeon
 * **[pokemon-battle](https://github.com/LowSugarCoke/pokemon-battle)**: [pokemon v1.0.1.0](https://github.com/LowSugarCoke/pokemon-battle/releases/tag/v1.0.1.0) - 2023-06-22
 <br />Simulate the battle scene in the Pokemon game

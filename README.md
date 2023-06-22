@@ -5,7 +5,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-[dungeon-game dungeon v1.0.0.0](https://github.com/LowSugarCoke/dungeon-game/releases/tag/v1.0.0.0) - 2023-06-22
+[dungeon-game dungeon v1.0.1.0](https://github.com/LowSugarCoke/dungeon-game/releases/tag/v1.0.1.0) - 2023-06-22
 
 [pokemon-battle pokemon v1.0.1.0](https://github.com/LowSugarCoke/pokemon-battle/releases/tag/v1.0.1.0) - 2023-06-22
 
