@@ -5,6 +5,8 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+[jntpy-gui Release  v1.0.0](https://github.com/LowSugarCoke/jntpy-gui/releases/tag/v1.0.0) - 2023-08-03
+
 [pic-crawler Release  v1.0.1.0](https://github.com/LowSugarCoke/pic-crawler/releases/tag/v1.0.1.0) - 2023-07-02
 
 [pixiv-downloader v1.0.1.0](https://github.com/LowSugarCoke/pixiv-downloader/releases/tag/v1.0.1.0) - 2023-06-24

@@ -1,8 +1,10 @@
 # Released projects
 
-Listing <!-- releases_count starts -->9<!-- releases_count ends --> releases across <!-- project_count starts -->5<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
+Listing <!-- releases_count starts -->10<!-- releases_count ends --> releases across <!-- project_count starts -->6<!-- project_count ends --> of my projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[jntpy-gui](https://github.com/LowSugarCoke/jntpy-gui)**: [Release  v1.0.0](https://github.com/LowSugarCoke/jntpy-gui/releases/tag/v1.0.0) - 2023-08-03
+<br />None
 * **[pic-crawler](https://github.com/LowSugarCoke/pic-crawler)**: [Release  v1.0.1.0](https://github.com/LowSugarCoke/pic-crawler/releases/tag/v1.0.1.0) - ([2 releases total](https://github.com/LowSugarCoke/pic-crawler/releases)) - 2023-07-02
 <br />None
 * **[pixiv-downloader](https://github.com/LowSugarCoke/pixiv-downloader)**: [v1.0.1.0](https://github.com/LowSugarCoke/pixiv-downloader/releases/tag/v1.0.1.0) - ([2 releases total](https://github.com/LowSugarCoke/pixiv-downloader/releases)) - 2023-06-24
