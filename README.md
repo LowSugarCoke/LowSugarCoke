@@ -1,6 +1,6 @@
 # LowSugarCoke
 
-### Success is a lousy teacher. It seduces smart people into thinking they can’t lose. - Bill Gates
+### Hard choices, easy life.
 
 <div align="center">
     <img src="https://leetcard.jacoblin.cool/LowSugarCoke?theme=dark&font=Bitter" />
